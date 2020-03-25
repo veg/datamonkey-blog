@@ -4,7 +4,7 @@ author: Steven Weaver
 date: 2020-3-24
 ---
 
-The following is sourced from [ObservableHQ](https://api.observablehq.com/@stevenweaver/case-vs-sequence-count)
+The following is sourced from [ObservableHQ](https://observablehq.com/@stevenweaver/case-vs-sequence-count)
 
 <div id="value"></div>
 <script type="module">
