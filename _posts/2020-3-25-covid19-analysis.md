@@ -29,7 +29,7 @@ This site only occurs in a two sequences from the same location, does not increa
 
 | Temporal Trend | Placement in tree |
 |:--:|:--:|
-|![](figures/S298.png)|![](figures/S298-tree.png)|
+|![](./figures/S298.png)|![](./figures/S298-tree.png)|
 
 >**What may change my mind?** Collecting more sequences with the same variant from different locations, especially if one can be found that "bridges" the E → S substitution via a one-nucleotide change. 
 
@@ -41,7 +41,7 @@ The `H` variant at this position has been present since early in the epidemic an
 >
 | Temporal Trend | Placement in tree |
 |:--:|:--:|
-|![](figures/ORF3a54.png)|![](figures/ORF3a54-tree.png)|
+|![](./figures/ORF3a54.png)|![](./figures/ORF3a54-tree.png)|
 
 
 ---
@@ -52,11 +52,11 @@ Here are some sites that could be worth looking at in more detail.
 
 The minor residue (`I`) appears fairly late, and is independently derived several times in the tree (potentially multiple independent evolutionary events). The substitution is also realized by changing a single nucleotide, `T` and `I` are biochemically quite dissimilar, and mutations in `nsp2` have [recently been associated](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25719) with structural and possible phenotypic changes. 
 
-![](figures/ORF1a265.png)
+![](./figures/ORF1a265.png)
 
 | Tree Part 1 | Tree Part 2|
 |:--:|:--:|
-|![](figures/ORF1a265-tree-1.png)|![](figures/ORF1a265-tree-2.png)|
+|![](./figures/ORF1a265-tree-1.png)|![](./figures/ORF1a265-tree-2.png)|
 
 
 ### Site 313 in ORF1b (P313L, nsp13 P504L)
@@ -65,7 +65,7 @@ The minor residue (`L`) appears quite early but is increasing in frequency, and 
 
 | Temporal Trend | Placement in tree |
 |:--:|:--:|
-|![](figures/ORF1b313.png)|![](figures/ORF1b313-tree.png)|
+|![](./figures/ORF1b313.png)|![](./figures/ORF1b313-tree.png)|
 
 ### Site 943 in S (S943P/T)
 
@@ -73,7 +73,7 @@ This site is interesting because we have sequences that represent a sequence of 
 
 | Temporal Trend | Placement in tree |
 |:--:|:--:|
-|![](figures/S943.png)|![](figures/S943-tree.png)|
+|![](./figures/S943.png)|![](./figures/S943-tree.png)|
 
 ### Negatively selected sites (e.g. ORF1a/83)
 
