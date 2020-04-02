@@ -1,7 +1,7 @@
 ---
 title: Current State of SARS-CoV-2 Evolution and Natural Selection Analysis
 author: Sergei L. Kosakovsky Pond
-## date: 2020-3-26
+date: 2020-3-26
 ---
 
 ## Which sites in the SARS-CoV-2 genome may be under selection and which ones might merit a closer look?
