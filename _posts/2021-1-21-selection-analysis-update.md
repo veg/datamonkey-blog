@@ -4,6 +4,8 @@ author: Sergei L Kosakovsky Pond
 date: 2021-1-21
 ---
 
+> B.1.351 added on Jan 22, 2021
+
 ### SARS-CoV-2 global selection analysis update.
 
 This page serves as a collection of links to [ObservableHQ](observablehq.com) notebooks maintained by the [Viral Evolution Group](lab.hyphy.org) at Temple University.
@@ -18,6 +20,10 @@ Updated weekly, tracks current and past evolutionary history and selection profi
 #### [Clade B.1.1.7 selection dashboard](https://observablehq.com/@spond/revised-sars-cov-2-analytics-page?dir=data/fasta/B117/2021-01-18&title=B.1.1.7&temporal=data/fasta/B117/)
   
 Updated weekly, tracks current and past evolutionary history and selection profiles of sites in the 501Y V1 clade [B.1.1.7](https://cov-lineages.org/global_report_B.1.1.7.html) based on [GISAID](gisaid.org) data. 
+
+#### [Clade B.1.351 selection dashboard](https://observablehq.com/@spond/revised-sars-cov-2-analytics-page?dir=data/fasta/B11351/2021-01-18&title=B.1.351&temporal=data/fasta/B11351/)
+  
+Updated weekly, tracks current and past evolutionary history and selection profiles of sites in the 501Y V2 clade [B.1.351](https://cov-lineages.org/global_report_B.1.351.html) based on [GISAID](gisaid.org) data. 
   
 #### [Detailed site-level report](https://observablehq.com/@spond/evolutionary-annotation-of-sars-cov-2-covid-19-genomes-enab)
 
